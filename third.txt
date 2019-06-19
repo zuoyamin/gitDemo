@@ -1,6 +1,3 @@
-line1
-line2
-hahahahahaha
-line4
-need delete
-line6
+Rabies 1
+Rebase 2
+Rebase 3
